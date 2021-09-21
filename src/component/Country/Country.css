@@ -1,0 +1,13 @@
+.country-div img {
+  width: 200px;
+}
+
+.country-div {
+  background-color: slategrey;
+  border: 2px solid salmon;
+  border-radius: 10px;
+  word-wrap: break-word;
+  width: 300px;
+  margin: 5px;
+  padding: 8px;
+}
